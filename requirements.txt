@@ -1,0 +1,5 @@
+jupyterlab
+notebook
+pycryptodome
+unicorn
+pwntools
