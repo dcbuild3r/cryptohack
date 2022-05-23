@@ -1,5 +1,5 @@
-# cryptograph
-Solving.org [Cryptograph](https://cryptohack.org/courses/) challenges
+# cryptohack
+Solving [Cryptohack.org](https://cryptohack.org/courses/) challenges
 
 Recommended dependency management - [Poetry](https://python-poetry.org/)
 
